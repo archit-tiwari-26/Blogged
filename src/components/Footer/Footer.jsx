@@ -28,7 +28,7 @@ function Footer() {
                   Your stories, beautifully told.
                 </p>
                 <p className="text-xs text-gray-500 border-t border-gray-800 pt-4">
-                  &copy; Copyright 2023. All Rights Reserved by DevUI.
+                 
                 </p>
               </div>
             </div>
