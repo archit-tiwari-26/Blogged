@@ -23,7 +23,7 @@ function Logo({width = '100px'}) {
       {/* Logo Text */}
       <div className="flex flex-col">
         <span className="text-xl font-bold bg-gradient-to-r from-white via-blue-100 to-purple-100 bg-clip-text text-transparent group-hover:from-blue-200 group-hover:to-purple-200 transition-all duration-300">
-          Blogged
+          BloggedIn
         </span>
         <span className="text-xs text-slate-400 -mt-1 opacity-75 group-hover:opacity-100 transition-opacity duration-300">
           

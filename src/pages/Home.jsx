@@ -135,7 +135,7 @@ function Home() {
                         <div className="max-w-4xl mx-auto space-y-12">
                             <div className="space-y-6">
                                 <h1 className="text-6xl md:text-7xl font-black bg-gradient-to-r from-white via-gray-100 to-gray-300 bg-clip-text text-transparent leading-tight tracking-tight">
-                                    Welcome to Our Blog
+                                    Welcome to BloggedIn
                                 </h1>
                                 <p className="text-2xl text-gray-400 leading-relaxed max-w-3xl mx-auto font-light">
                                     Discover amazing stories, insights, and ideas. Login to unlock a world of engaging content and join our creative community.
